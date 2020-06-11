@@ -1,2 +1,2 @@
 # DatabaseManagement
-Designing a database to specification
+Designing a database to specification and designing queries
